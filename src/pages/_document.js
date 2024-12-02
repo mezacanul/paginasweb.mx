@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>Merivilla Co.</title>
+        <title>PaginasWeb Mx</title>
       </Head>
       <body>
         <Main />
